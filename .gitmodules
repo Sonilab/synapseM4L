@@ -1,0 +1,3 @@
+[submodule "mcell"]
+	path = mcell
+	url = https://github.com/Sonilab/mcell_m4l.git
